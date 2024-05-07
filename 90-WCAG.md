@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Couleur
-permalink: couleur.html
+title: WCAG
+permalink: wcag.html
 ---
 
 TODO: information sur les critères, WCAG 1.0, WCAG 2.0, Section 508, RGAA, ARIA...

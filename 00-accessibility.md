@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accessibilité
-permalink: accessibilite.html
+permalink: index.html
 ---
 
 Ecrire un HTML accessible

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Couleur
-permalink: couleur.html
+permalink: texte.html
 ---
 
 ## Taille du texte
