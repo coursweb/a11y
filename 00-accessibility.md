@@ -27,9 +27,9 @@ Le terme anglais "accessibility" étant relativement long, il est parfois abrég
 Liste d'amélioriations possibles:
 
 1. **Lisibilité du texte:** choix d'une police lisible, taille du texte, longueur de ligne, interlignage adapté.
-2. **Couleur du texte et contraste**, veiller à avoir un contraste suffisant.
-3. **Taille des zones cibles tactiles**
-4. **Texte alternatif:** attribut `alt` pour ajouter une description à chaque image (laisser vide si l'image est purement décorative).
+2. **[Couleur du texte et contraste](couleur.html)**, veiller à avoir un contraste suffisant.
+3. **[Taille des zones cibles tactiles](taille-de-cible.html)** de 44 x 44 pixels minimum.
+4. **Texte alternatif:** attribut `alt` pour ajouter une description à chaque image (laisser vide si l'image est purement décorative). Aussi pour les vidéos et les tableaux.
 5. **Lien d'évitement** (pour qu'un lecteur d'écran puisse sauter la navigation, et passer directement au contenu principal.)
 6. **Code des menus** bien structuré, utilisant les éléments `nav` et `ul > li`.
 7. **Utiliser les balises** H1, H2, etc, dans le bon ordre. Des outils d'assistance peuvent les utiliser pour générer une table des matières de la page.
