@@ -8,21 +8,12 @@ permalink: couleur.html
 
 Les contrastes de textes sont élémentaires en terme d’accessibilité de site internet. Les choix typographiques ainsi que les couleurs sont à faire méticuleusement afin que toute personnes souffrantes de troubles de la vue permanent ou temporairepuissent voir. Le premier terme désigne certaines déficiences visuelles, le second la fatigue oculaire dûe aux heures passées derrière un écran de mauvaise qualité par exemple. A ne pas oublier qu'avec l'âge les problèmes de vue s'accentuent. Il n'y pas que ça comme soucis de vue, par exemple la dysléxie (8 à 12 % de la population mondiale en souffrirait), le daltonisme (8% de cas chez les hommes et 0,5% du côté des femmes) 
 
-Le texte est sûrement une des parties la plus importantes pour un site. Il sert à la compréhension même de celui-ci. Voilà pourquoi un bon traitement entre contrastes et couleurs est primordial pour ne pas avoir à plisser les yeux derrière son écran. Cepandant ce point essentiel est souvent fait de manière rapide et baclée.
+Le texte est sûrement une des parties la plus importantes pour un site. Il sert à la compréhension même de celui-ci. Voilà pourquoi un bon traitement entre contrastes et couleurs est primordial.
 
-Le WCAG "Web Content Accessibility Guidelines" ou "Règles pour l'accessibilité des contenus Web". Mais qu'est-ce que c'est le WCAG?
 
-C'est des recommandations internationales édités par la WAI (Initiative sur l’Accessibilité du web). Il existe deux version, la WCAg1.0 (1999) et WCAG2.0 (dès 2008). Ce qui différencie ces deux versions c'est le ciblage technologique: WCAG1.0 s'occupait plus certaines technologies ainsi que le contenu HTML et les transformations. Alors que WCAG2.0 cherche à s’en extraire pour devenir abscon et universel.
 
-Il existe trois niveaux de recommandations:
-
-* **Niveau A :** niveau fondamental satisfaisant tous les critères d’accessibilité de priorité 1. Le site offre un accès minimal aux informations contenues dans les documents Web.
-* **Niveau AA :** niveau satisfaisant tous les critères d’accessibilité de priorité 1 et 2. Le site offre un accès « correct » aux informations contenues dans les documents Web.
-* **Niveau AAA :** niveau satisfaisant tous les critères d’accessibilité de priorité 1, 2 et 3. Le site offre un accès excellent aux informations contenues dans les documents Web.
-
+Il
 Les recommandations de contrastes notés ici sont utiles seulement pour une lecture sur écran.
-
-
 
 > "Le texte (ou les images de texte informatif) de moins de 18 points (ou moins de 14 points en gras) devrait posséder un contraste de luminosité d’au moins 4,5 pour 1 avec son arrière-plan.
 > Le texte (ou les images de texte informatif) de plus de 18 points (ou plus de 14 points en gras) devrait posséder un contraste de luminosité d’au moins 3 pour 1 avec son arrière-plan."
