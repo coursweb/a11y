@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Couleur
+title: Texte
 permalink: texte.html
 ---
 
