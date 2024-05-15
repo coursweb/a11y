@@ -22,6 +22,8 @@ Le terme anglais "accessibility" étant relativement long, il est parfois abrég
 
 > l'a11y DOIT faire partie du processus de design, on doit l'enseigner comme ça, non plus se contenter de "sensibiliser" :) d'où l'importance de convaincre une corporation maintenant que c'est une part intégrante de la discipline ! - [Marie-Cécile Paccard ](https://twitter.com/mcpaccard/status/891916591407005696)
 
+> Défendre l’accessibilité, ce n’est pas être engagé ou militant, ce n’est pas un choix ou une valeur (qui me serait propre) mais une responsabilité. - [Arnaud Malon](https://www.24joursdeweb.fr/2023/accessibilite-de-combat/)
+
 ## Critères d'accessibilité
 
 Liste d'amélioriations possibles:

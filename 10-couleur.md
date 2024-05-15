@@ -22,15 +22,15 @@ Il existe trois niveaux de recommandations:
 
 Les recommandations de contrastes notés ici sont utiles seulement pour une lecture sur écran.
 
-D'après les recommandations WCAG 2.0 du W3C (Le World Wide Web Consortium, est un organisme de normalisation {maintien de normes} à but non lucratif. Il à été fondé en octobre 1994 et est dirigé par l'inventeur du Web, Tim Berners-Lee. Il s'occupe de la compatibilité des technologies du World Wide Web telles que HTML,CSS), pour obtenir le niveau AA, la règle 1.4.3 indique ceci :
+
 
 > "Le texte (ou les images de texte informatif) de moins de 18 points (ou moins de 14 points en gras) devrait posséder un contraste de luminosité d’au moins 4,5 pour 1 avec son arrière-plan.
 > Le texte (ou les images de texte informatif) de plus de 18 points (ou plus de 14 points en gras) devrait posséder un contraste de luminosité d’au moins 3 pour 1 avec son arrière-plan."
 
 Pour obtenir le niveau le plus haut, AAA, la règle 1.4.6 indique :
 
-> "Le texte (ou les images de texte informatif) de moins de 18 points (ou moins de 14 points en gras) devrait posséder un contraste de luminosité d’au moins 7 pour 1 avec son arrière-plan.
-> Le texte (ou les images de texte informatif) de plus de 18 points (ou plus de 14 points en gras) devrait posséder un contraste de luminosité d’au moins 4,5 pour 1 avec son arrière-plan. »
+> Le texte (ou les images de texte informatif) de moins de 18 points (ou moins de 14 points en gras) devrait posséder un contraste de luminosité d’au moins 7 pour 1 avec son arrière-plan.
+> Le texte (ou les images de texte informatif) de plus de 18 points (ou plus de 14 points en gras) devrait posséder un contraste de luminosité d’au moins 4,5 pour 1 avec son arrière-plan.
 
 (https://www.w3.org/TR/2008/REC-WCAG20-20081211/#contrast-ratiodef) ici une catégorie qui nous montre les formules mathématiques pour calculer les contrastes.
 
