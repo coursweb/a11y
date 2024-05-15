@@ -18,7 +18,7 @@ L'accessibilité réside dans la capacité d'un medium (p.ex. un site internet) 
 
 Le terme anglais "accessibility" étant relativement long, il est parfois abrégé en **a11y** (le 11 représentant les 11 caractères tronqués).
 
-![](images/a11y.png)
+![](img/a11y.png)
 
 > l'a11y DOIT faire partie du processus de design, on doit l'enseigner comme ça, non plus se contenter de "sensibiliser" :) d'où l'importance de convaincre une corporation maintenant que c'est une part intégrante de la discipline ! - [Marie-Cécile Paccard ](https://twitter.com/mcpaccard/status/891916591407005696)
 

@@ -6,12 +6,14 @@ permalink: ressources.html
 
 ## Ressources
 
-En français:
+### En français:
 
 - [La checklist Qualité Web](https://checklists.opquast.com/fr/assurance-qualite-web/) de Opquast
 - [Convaincre les designers des bienfaits de l’accessibilité, oui, mais comment ?](https://marieguillaumet.com/convaincre-les-designers-des-bienfaits-de-l-accessibilite/) par Marie Guillaumet, juillet 2017
 
-En anglais:
+
+
+### En anglais:
 
 - [Infos accessibilité](https://web.dev/accessible/) sur Web.Dev
 
