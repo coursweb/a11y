@@ -18,6 +18,12 @@ Selon Romy Duhem-Verdière :
 
 > Les polices adaptées à l’écran ont des caractères plus massifs. Elles sont courtes en jambes et ont un large œil de lettre ou « hauteur d’x », pour améliorer leur lisibilité. C’est le cas de *Georgia* et *Verdana*, mais pas d’*Arial* ni du *Times*, dont l’œil est réduit et les lettres moins larges.
 
+## Le texte alternatif
+
+À propos du texte alternatif:
+
+[Bien utiliser le texte alternatif](http://www.pompage.net/traduction/Bien-utiliser-le-texte-alternatif), par WebAIM, 2007
+
 ## Ressources
 
 - *[Stop Arial 11px](https://web.archive.org/web/20210702115957/http://romy.tetue.net/stop-arial-11px)*, par Romy Têtue, 2011.

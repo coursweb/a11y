@@ -36,3 +36,28 @@ Liste d'amélioriations possibles:
 8. **Code HTML valide:** veiller à ce que le code HTML de la page est valide (utiliser un validateur)
 
 
+## Vidéos sur le sujet
+
+[Un site internet accessible pour tous : les 5 pièges à éviter !](https://www.youtube.com/watch?v=0tTNeV_WAn8)
+
+<iframe width="100%" style="ratio:16/9; min-height:320px" src="https://www.youtube-nocookie.com/embed/0tTNeV_WAn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Les cinq pièges, dans cette vidéo, sont:
+
+- Lien d'évitement pour sauter la navigation, et passer au contenu.
+- Les tableaux ont besoin de libellés (titres), pour être compréhensibles.
+- Les agendas doivent être accessibles.
+- Les fenêtres pop-up peuvent poser problème, bloquer l'accès au contenu.
+- Les formulaires (les messages d'erreur ne sont pas lisibles facilement).
+
+---
+
+[Comment les aveugles utilisent internet](https://www.youtube.com/watch?v=DePdWynmd_Y)
+
+<iframe width="100%" style="ratio:16/9; min-height:320px" src="https://www.youtube-nocookie.com/embed/DePdWynmd_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Problèmes récurrents cités dans cette vidéo:
+
+- Les images sans description visible.
+- Dans une boutique, quand le mode de paiement est représenté par un pictogramme non décrit.
+- La navigation sans souris. Parfois, un bouton de validation n'est activable que par la souris.
