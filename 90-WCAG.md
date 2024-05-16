@@ -18,6 +18,8 @@ La directive WCAG définit trois niveaux d'accessibilité :
 - **Niveau AA :** offre un accès « correct ».
 - **Niveau AAA :** offre un accès excellent.
 
+### Le référentiel RGAA
+
 En France, il existe un "Référentiel général d'amélioration de l'accessibilité" (RGAA). C'est une transposition des règles WCAG. Pour être conforme aux critères RGAA, il faut il faut satisfaire les deux premiers niveaux WCAG : A (conformité minimale) et AA (critère de succès standard).
 
 Lien: [https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/](https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/)

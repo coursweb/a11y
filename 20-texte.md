@@ -18,6 +18,11 @@ Selon Romy Duhem-Verdière :
 
 > Les polices adaptées à l’écran ont des caractères plus massifs. Elles sont courtes en jambes et ont un large œil de lettre ou « hauteur d’x », pour améliorer leur lisibilité. C’est le cas de *Georgia* et *Verdana*, mais pas d’*Arial* ni du *Times*, dont l’œil est réduit et les lettres moins larges.
 
+## Autres conseils concernant le texte
+
+- Les styles ne justifient pas le texte. [Règle Opquast n° 186](https://checklists.opquast.com/fr/assurance-qualite-web/les-styles-ne-justifient-pas-le-texte). "Sur le Web, plusieurs études ont montré que la justification rend la lecture plus difficile pour de nombreux publics tels que les dyslexiques".
+- Le soulignement est réservé aux liens. [Règle Opquast n° 134](https://checklists.opquast.com/fr/assurance-qualite-web/le-soulignement-est-reserve-aux-liens).
+
 ## Le texte alternatif
 
 À propos du texte alternatif:
