@@ -26,3 +26,11 @@ Ressources par Ire Aderinokun:
 - [Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) par Bitsofco.de (Ire Aderinokun)
 - [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/) par Ire Aderinokun, novembre 2016
 - [Rules for Using ARIA in HTML](https://bitsofco.de/rules-for-using-aria-in-html/) par Ire Aderinokun, janvier 2017
+
+## Autres supports de cours
+
+Informations à intégrer:
+
+- [CoursID412, 2023](https://eracom-id412.github.io/eedev2/a11y.html)
+- [Cours ID301, 2021-22](https://eracom-id301.github.io/cours-dev2-css/a11y.html)
+

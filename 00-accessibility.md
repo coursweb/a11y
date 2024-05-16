@@ -4,16 +4,6 @@ title: Accessibilité
 permalink: index.html
 ---
 
-## Autres supports
-
-Informations à intégrer:
-
-- [CoursID412, 2023](https://eracom-id412.github.io/eedev2/a11y.html)
-- [Cours ID301, 2021-22](https://eracom-id301.github.io/cours-dev2-css/a11y.html)
-
-
-## Ecrire un HTML accessible
-
 L'accessibilité réside dans la capacité d'un medium (p.ex. un site internet) à être lisible dans un maximum de situations, pour un maximum de personnes.
 
 Le terme anglais "accessibility" étant relativement long, il est parfois abrégé en **a11y** (le 11 représentant les 11 caractères tronqués).
