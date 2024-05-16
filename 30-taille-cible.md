@@ -4,12 +4,13 @@ title: Taille de cible
 permalink: taille-de-cible.html
 ---
 
-En résumé: Donner à chaque élément cliquable (boutons, liens) une taille par défaut d'au moins 44 par 44 pixels.
+En résumé: Donner à chaque élément cliquable (boutons, liens) une taille par défaut d'au moins **44 par 44 pixels**.
 
 Les recommandations officielles: 
 
 - La [directive WCAG 2.2](https://www.w3.org/TR/WCAG22/#target-size-enhanced) en niveau AAA (critère 2.5.5) recommande 44 x 44 pixels (et [le niveau AA](https://www.w3.org/TR/WCAG22/#target-size-minimum) exige 24 x 24 px)
-- La règle N° 181 de la [check-list Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/la-taille-des-elements-cliquables-est-suffisante) recommande au moins 44 par 44 pixels.
+- La [check-list Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/la-taille-des-elements-cliquables-est-suffisante) (règle N° 181) recommande au moins 44 par 44 pixels.
+- Apple iOS recommande 44 par 44 pixels minimum.
 - [Google Material Design](https://m2.material.io/design/usability/accessibility.html#layout-and-typography) recommande 48 x 48 pixels pour les "Touch targets".
 
 Lire:
