@@ -9,6 +9,11 @@ permalink: ressources.html
 ### En français:
 
 - [La checklist Qualité Web](https://checklists.opquast.com/fr/assurance-qualite-web/) de Opquast
+
+- [Un Guide sur l'accessibilité](https://developer.mozilla.org/fr/docs/Learn/Accessibility), sur MDN Web Docs
+
+- [Les articles "bonnes pratiques" et "veille"](https://a11y-guidelines.orange.com/fr/articles/) du site a11y-guidelines.orange.com
+
 - [Convaincre les designers des bienfaits de l’accessibilité, oui, mais comment ?](https://marieguillaumet.com/convaincre-les-designers-des-bienfaits-de-l-accessibilite/) par Marie Guillaumet, juillet 2017
 
 
