@@ -22,10 +22,13 @@ Liste d'amélioriations possibles:
 2. **[Couleur du texte et contraste](couleur.html)**, veiller à avoir un contraste suffisant.
 3. **[Taille des zones cibles tactiles](taille-de-cible.html)** de 44 x 44 pixels minimum.
 4. **Texte alternatif:** attribut `alt` pour ajouter une description à chaque image (laisser vide si l'image est purement décorative). Aussi pour les vidéos et les tableaux. [Règle Opquast 113](https://checklists.opquast.com/fr/assurance-qualite-web/chaque-image-porteuse-dinformation-est-dotee-dune-alternative-textuelle-appropriee).
-5. **Lien d'évitement** (pour qu'un lecteur d'écran puisse sauter la navigation, et passer directement au contenu principal.)
+5. **[Lien d'évitement](lien-evitement.html)** (pour qu'un lecteur d'écran puisse sauter la navigation, et passer directement au contenu principal.)
 6. **Code des menus** bien structuré, utilisant les éléments `nav` et `ul > li`.
 7. **Utiliser les balises** H1, H2, etc, dans le bon ordre. Des outils d'assistance peuvent les utiliser pour générer une table des matières de la page. [Règle Opquast n° 227](https://checklists.opquast.com/fr/assurance-qualite-web/le-contenu-de-chaque-page-est-organise-selon-une-structure-de-titres-et-sous-titres-hierarchisee).
 8. **Code HTML valide:** veiller à ce que le code HTML de la page est valide (utiliser un validateur)
+9. **Un attribut "lang":** veiller à ce qu'un attribut de langue soit présent.
+
+Voir une checklist plus complète : [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
 
 
 ## Vidéos sur le sujet
