@@ -14,9 +14,9 @@ Le texte entier: [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)
 
 La directive WCAG définit trois niveaux d'accessibilité : 
 
-- **Niveau A :** offre un accès minimal aux informations contenues dans les documents Web.
-- **Niveau AA :** offre un accès « correct ».
-- **Niveau AAA :** offre un accès excellent.
+- **Niveau A :** "Essential". Offre un accès minimal aux informations contenues dans les documents Web.
+- **Niveau AA :** "Ideal Support". Offre un accès « correct ». C'est le niveau exigé pour les sites web gouvernementaux ou d'institutions publiques.
+- **Niveau AAA :** "Specialized Support". Offre un accès excellent.
 
 Le document WCAG est très dense et complexe. C'est pour cela qu'il existe différents référentiels qui en donnent une version plus facile à appliquer. Par exemple:
 

@@ -16,9 +16,9 @@ permalink: ressources.html
 
 - [Convaincre les designers des bienfaits de l’accessibilité, oui, mais comment ?](https://marieguillaumet.com/convaincre-les-designers-des-bienfaits-de-l-accessibilite/) par Marie Guillaumet, juillet 2017
 
-
-
 ### En anglais:
+
+- [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
 
 - [Infos accessibilité](https://web.dev/accessible/) sur Web.Dev
 
