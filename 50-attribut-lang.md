@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Attribut de Langue
-permalink: index.html
+permalink: attribut-langue.html
 ---
 La présence d'un attribut indiquant la langue de la page est requise pour la confirmité WCAG de niveau A. Sans cet attribut, un logiciel de lecture ne saura pas comment prononcer correctement le contenu.
 
