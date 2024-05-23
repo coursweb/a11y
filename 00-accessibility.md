@@ -26,7 +26,8 @@ Liste d'amélioriations possibles:
 6. **Code des menus** bien structuré, utilisant les éléments `nav` et `ul > li`.
 7. **Utiliser les balises** H1, H2, etc, dans le bon ordre. Des outils d'assistance peuvent les utiliser pour générer une table des matières de la page. [Règle Opquast n° 227](https://checklists.opquast.com/fr/assurance-qualite-web/le-contenu-de-chaque-page-est-organise-selon-une-structure-de-titres-et-sous-titres-hierarchisee).
 8. **Code HTML valide:** veiller à ce que le code HTML de la page est valide (utiliser un validateur)
-9. **Un attribut "lang":** veiller à ce qu'un attribut de langue soit présent.
+9. **[Un attribut "lang"](attribut-lang.html):** veiller à ce qu'un attribut de langue soit présent.
+10. **Les styles de :focus** pour aider la navigation au clavier.
 
 Voir une checklist plus complète : [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
 
