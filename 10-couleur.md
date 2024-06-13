@@ -84,6 +84,3 @@ Avec cette même combinaison un effet de halo peut se produire lors de la lectur
 En conclusion la clef de la réussite pour une bonne lisibilité c’est l’équilibre! Un bon contraste est essentiel et important. Plusieurs outils sont à notre disposition pour nous aider à trouver cet équilibre.  Ces outils sont également utiles, non pas seulement pour des personnes ayant un handicap, mais aussi pour celles ayant une vue «  normale ». Ils permettent un confort de lecture plus conséquent.
 
 - *[Contrastes de texte](http://openweb.eu.org/articles/accessibilite_contrastes_textes_sites)*, un article par  Nicolas Hoffmann, sur openweb.eu.org
-- Un outil pour tester les couleurs du texte et du fond: [http://jxnblk.com/colorable/demos/text/](http://jxnblk.com/colorable/demos/text/)
-- Un autre outil: [http://leaverou.github.io/contrast-ratio/#%23222-on-%23fff](http://leaverou.github.io/contrast-ratio/#%23222-on-%23fff)
-
