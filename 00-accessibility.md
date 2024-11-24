@@ -38,13 +38,13 @@ Voir une checklist plus complète : [The A11Y Project Checklist](https://www.a11
 
 <iframe width="100%" style="ratio:16/9; min-height:320px" src="https://www.youtube-nocookie.com/embed/0tTNeV_WAn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Les cinq pièges, dans cette vidéo, sont:
+Les cinq pièges cités dans cette vidéo sont:
 
-- Lien d'évitement pour sauter la navigation, et passer au contenu.
-- Les tableaux ont besoin de titres, pour être compréhensibles ([règle Opquast n°137](https://checklists.opquast.com/fr/assurance-qualite-web/les-titres-des-tableaux-de-donnees-sont-renseignes)).
-- Les agendas doivent être accessibles.
-- Les fenêtres pop-up peuvent poser problème, bloquer l'accès au contenu.
-- Les formulaires (les messages d'erreur ne sont pas lisibles facilement).
+- **Lien d'évitement** pour sauter la navigation, et passer au contenu.
+- Les **tableaux** ont besoin de titres, pour être compréhensibles ([règle Opquast n°137](https://checklists.opquast.com/fr/assurance-qualite-web/les-titres-des-tableaux-de-donnees-sont-renseignes)).
+- Les agendas / sélecteurs de date doivent être accessibles.
+- Les **fenêtres pop-up** peuvent poser problème, et même bloquer l'accès au contenu.
+- Les **formulaires** (les messages d'erreur ne sont pas lisibles facilement).
 
 ---
 
@@ -54,6 +54,6 @@ Les cinq pièges, dans cette vidéo, sont:
 
 Problèmes récurrents cités dans cette vidéo:
 
-- Les images sans description visible.
-- Dans une boutique, quand le mode de paiement est représenté par un pictogramme non décrit.
+- Les images sans description.
+- Dans une boutique, quand le mode de paiement est représenté par un pictogramme (visa, mastercard...) qui n'est pas décrit.
 - La navigation sans souris. Parfois, un bouton de validation n'est activable que par la souris.
