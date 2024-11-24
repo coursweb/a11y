@@ -20,12 +20,12 @@ Selon Romy Duhem-Verdière :
 
 ## Autres conseils concernant le texte
 
-- Les styles ne justifient pas le texte. [Règle Opquast n° 186](https://checklists.opquast.com/fr/assurance-qualite-web/les-styles-ne-justifient-pas-le-texte). "Sur le Web, plusieurs études ont montré que la justification rend la lecture plus difficile pour de nombreux publics tels que les dyslexiques".
-- Le soulignement est réservé aux liens. [Règle Opquast n° 134](https://checklists.opquast.com/fr/assurance-qualite-web/le-soulignement-est-reserve-aux-liens).
+- Il faut éviter de **justifier** le texte. [Règle Opquast n° 186](https://checklists.opquast.com/fr/assurance-qualite-web/les-styles-ne-justifient-pas-le-texte). "Sur le Web, plusieurs études ont montré que la justification rend la lecture plus difficile pour de nombreux publics tels que les dyslexiques".
+- Le **soulignement** est réservé aux liens. [Règle Opquast n° 134](https://checklists.opquast.com/fr/assurance-qualite-web/le-soulignement-est-reserve-aux-liens).
 
 ## Le texte alternatif
 
-À propos du texte alternatif:
+Le texte alternatif permet d'offrir une **alternative textuelle** au contenu non textuel d'une page web (principalement les images). À propos du texte alternatif:
 
 [Bien utiliser le texte alternatif](http://www.pompage.net/traduction/Bien-utiliser-le-texte-alternatif), par WebAIM, 2007
 
