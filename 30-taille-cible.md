@@ -16,4 +16,5 @@ Les recommandations officielles:
 Lire:
 
 * [Accessibilité : la taille de cible, ça compte !](https://koena.net/accessibilite-de-la-taille-de-cible/)
-* [Et tu cliques cliques cliques, à côté du bouton ♫](https://www.24joursdeweb.fr/2019/et-tu-cliques-a-cote-du-bouton/)
+* [Et tu cliques cliques cliques, à côté du bouton ♫](https://www.24joursdeweb.fr/2019/et-tu-cliques-a-cote-du-bouton/), par Florens Verschelde
+* [Un petit jeu de précision pour illuster le problème](https://click-precision-game.netlify.app/)
