@@ -4,7 +4,9 @@ title: Lien d'évitement
 permalink: lien-evitement.html
 ---
 
-Un lien d’évitement du type « Aller au contenu » doit systématiquement être présent sur chaque page afin de faciliter la navigation au clavier. Si ce lien n'est pas présent, une personne navigant la page à l'aide d'un clavier devra "traverser" tous les menus avant d'arriver au contenu.
+Un lien d’évitement du type « Aller au contenu » doit systématiquement être présent sur chaque page afin de faciliter la navigation au clavier. Si ce lien n'est pas présent, une personne navigant la page à l'aide d'un clavier devra "traverser" tous les menus avant d'arriver au contenu. Les liens d’évitement sont avant tout proposés pour les utilisateurs clavier (personnes déficientes motrices, par exemple).
+
+En anglais, on parle de "Skip links". 
 
 Exemple simple donné par AcceDe Web:
 
@@ -41,11 +43,10 @@ a.evitement:focus {
 }
 ```
 
+## Ressources
 
-* [Mettre en place un lien d’évitement](https://www.accede-web.com/notices/html-et-css/navigation-au-clavier/mettre-en-place-un-lien-devitement/)
-
-Article détaillé :
-
-[Les bonnes pratiques pour les liens d’évitements](https://a11y-guidelines.orange.com/fr/articles/liens-evitement/)
-
-Les liens d’évitement sont avant tout proposés pour les utilisateurs clavier (personnes déficientes motrices, par exemple).
+* [Mettre en place un lien d’évitement](https://www.accede-web.com/notices/html-et-css/navigation-au-clavier/mettre-en-place-un-lien-devitement/), Les notices AcceDe Web
+* Article détaillé : [Les bonnes pratiques pour les liens d’évitements](https://a11y-guidelines.orange.com/fr/articles/liens-evitement/), Accessibilité Numérique Orange
+* [Skip Link - Easy Checks](https://www.w3.org/WAI/test-evaluate/easy-checks/skip-link/), Web Accessibility
+Initiative WAI
+* [Bypass Blocks: Understanding SC 2.4.1](https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html), WCAG 2.2 Understanding Docs
