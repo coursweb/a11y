@@ -42,4 +42,9 @@ On peut également changer en temps réel les couleurs pour voir leur impact en 
 
 ## Autres ressources
 
+Extensions pour Figma: 
+
+- [Use Contrast](https://www.figma.com/community/plugin/1149686177449921115/use-contrast)
+- [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875/a11y-color-contrast-checker)
+
 - *[Contrastes de texte](http://openweb.eu.org/articles/accessibilite_contrastes_textes_sites)*, un article par  Nicolas Hoffmann, sur openweb.eu.org
