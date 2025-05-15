@@ -6,7 +6,7 @@ permalink: lien-evitement.html
 
 Un lien d’évitement du type « Aller au contenu » doit systématiquement être présent sur chaque page afin de faciliter la navigation au clavier. Si ce lien n'est pas présent, une personne navigant la page à l'aide d'un clavier devra "traverser" tous les menus avant d'arriver au contenu. Les liens d’évitement sont avant tout proposés pour les utilisateurs clavier (personnes déficientes motrices, par exemple).
 
-En anglais, on parle de "Skip links". 
+En anglais, on parle de "Skip links". C'est le critère 2.4.1 (*Bypass Blocks*) du règlement WCAG.
 
 Exemple simple donné par AcceDe Web:
 
