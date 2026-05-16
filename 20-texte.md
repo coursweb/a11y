@@ -2,6 +2,8 @@
 layout: page
 title: Texte
 permalink: texte.html
+redirect_from:
+  - /2
 ---
 
 ## Taille du texte

@@ -2,6 +2,8 @@
 layout: page
 title: Taille de cible
 permalink: taille-de-cible.html
+redirect_from:
+  - /3
 ---
 
 En résumé: Donner à chaque élément cliquable (boutons, liens) une taille par défaut d'au moins **44 par 44 pixels**.
