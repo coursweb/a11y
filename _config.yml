@@ -13,7 +13,8 @@ chapters:
    url: https://cours-web.ch/javascript/
  - title: A11Y
    url: https://cours-web.ch/a11y/
-
+plugins:
+  - jekyll-redirect-from
    # Footer content
 # Content is split in three columns.   
 footer_col_1: <ul class="contact-list">

@@ -2,6 +2,8 @@
 layout: page
 title: Couleur
 permalink: couleur.html
+redirect_from:
+  - /10
 ---
 
 ## Contraste couleur
