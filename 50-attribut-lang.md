@@ -24,4 +24,7 @@ Voici comment renseigner l'attribut "lang", sur la balise "html" tout au début 
 </html>
 ```
 
-Voir: WCAG Success Criterion 3.1.1 [Language of Page](https://www.w3.org/WAI/WCAG22/Understanding/language-of-page)
+## Référentiels 
+
+* [Règle Opquast n° 130 ](https://checklists.opquast.com/fr/qualite-numerique/le-code-source-de-chaque-page-indique-la-langue-principale-du-contenu) - Le code source de chaque page indique la langue principale du contenu.
+* WCAG Success Criterion 3.1.1 [Language of Page](https://www.w3.org/WAI/WCAG22/Understanding/language-of-page)

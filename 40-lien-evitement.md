@@ -49,6 +49,7 @@ a.evitement:focus {
 
 * [Mettre en place un lien d’évitement](https://www.accede-web.com/notices/html-et-css/navigation-au-clavier/mettre-en-place-un-lien-devitement/), Les notices AcceDe Web
 * Article détaillé : [Les bonnes pratiques pour les liens d’évitements](https://a11y-guidelines.orange.com/fr/articles/liens-evitement/), Accessibilité Numérique Orange
+* [Règle Opquast n° 164 ](https://checklists.opquast.com/fr/qualite-numerique/chaque-page-contient-des-liens-dacces-rapide-places-au-debut-du-code-source) - Chaque page contient des liens d'accès rapide placés au début du code source.
 * [Skip Link - Easy Checks](https://www.w3.org/WAI/test-evaluate/easy-checks/skip-link/), Web Accessibility
 Initiative WAI
 * [Bypass Blocks: Understanding SC 2.4.1](https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html), WCAG 2.2 Understanding Docs
